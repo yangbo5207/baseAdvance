@@ -1,0 +1,10 @@
+.target {
+    width: 100px;
+    height: 100px;
+    background: #CCC;
+    /* display: none; */
+    transition: 0.3s;
+}
+.target.hide {
+    display: none;
+}
